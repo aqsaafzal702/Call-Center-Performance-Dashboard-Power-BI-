@@ -4,7 +4,7 @@ This repository contains a Power BI dashboard designed to analyze and visualize 
 
 # Dashboard Features
 # Agent Performance: 
-Filterable views that allow you to analyze individual agent performance, including metrics like the number of calls answered and resolved.
+Filterable views that allow you to analyze individual agent performance, including metrics like the number of calls answered and resolved. 
 # Topic Analysis: 
 Filterable sections to analyze call center performance based on specific topics (e.g., Admin, Payment, Technical issues).
 # Resolution and Answer Rates:
